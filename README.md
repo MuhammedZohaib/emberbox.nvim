@@ -6,7 +6,7 @@ Emberbox uses warm brown/charcoal backgrounds, cream foreground text, yellow fun
 
 ## Preview
 
-Add screenshots here.
+![Emberbox.nvim preview](assets/header_image.png)
 
 ## Installation
 
